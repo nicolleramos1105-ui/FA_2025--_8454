@@ -1,0 +1,8 @@
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\bin\Debug\SEMANA1_C#.exe.config
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\bin\Debug\SEMANA1_C#.exe
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\bin\Debug\SEMANA1_C#.pdb
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\obj\Debug\SEMANA1_C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\obj\Debug\SEMANA1_C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\obj\Debug\SEMANA1_C#.exe
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\obj\Debug\SEMANA1_C#.pdb
+C:\Users\UPN\Downloads\FA_8454\FA_8454\SEMANA1_C#\obj\Debug\SEMANA1_C#.exe.config
